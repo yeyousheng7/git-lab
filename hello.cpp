@@ -8,6 +8,6 @@ int sum(int a, int b) {
 
 
 int main() {
-    cout << "Hello, Git!\n";
+    cout << "Hello A!\n";
     return 0;
 }
